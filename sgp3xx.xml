@@ -36,3 +36,4 @@
 
 <project path="device/sony/sgp321" name="pollux-android5/device-sony-sgp321" groups="device" remote="github" revision="lp50" />
 <project path="device/sony/sgp311" name="pollux-android5/device-sony-sgp311" groups="device" remote="github" revision="lp50" />
+</manifest>
